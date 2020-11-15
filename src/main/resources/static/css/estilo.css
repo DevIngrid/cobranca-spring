@@ -1,0 +1,66 @@
+
+.formulario{
+	margin-top: 15px;
+	padding: 12px;
+	border: double;
+	margin: 10px;
+	background-color: #e6e6e6;
+}
+
+.card-header{
+	height: 40px;
+	padding: 5px;
+	background-color: #a4a4ff;
+	
+	
+}
+/*só para tela grande*/
+@media(min-width: 768px){
+	.card {
+	margin: 10px;
+	
+	}
+}
+
+
+
+
+.selectCor{
+	background-color: #a4a4ff;
+}
+
+.optionCorGreen{
+	background-color: green;
+}
+
+.optionCorRed {
+	background-color: red;
+}
+
+.col-form-label{
+	font-size: 18px;
+}
+.container1{
+	border-style:double;
+	border-color: red;
+	padding:10px;
+}
+
+.aw-link-panel{
+	float:right;
+	padding:0px;
+}
+
+.aw-titulo-panel{
+	float:left;
+	padding-top: 2px;
+	
+}
+.rounded{
+	padding-left:4px;
+	padding-right:4px;
+	padding-bottom:3px;
+}
+.has-error{
+	input-color: red;
+}
